@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-LEIA O PROXIMO README DA PASTA consumption-api-git-
+LEIA O PROXIMO README.MD DA PASTA consumption-api-git-
 
 ```
 
