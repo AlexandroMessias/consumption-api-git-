@@ -3,6 +3,7 @@
 ## Project setup
 ```
 yarn install
+yarn add vue-router
 ```
 
 ### Compiles and hot-reloads for development
