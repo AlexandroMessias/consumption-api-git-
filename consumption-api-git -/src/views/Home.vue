@@ -73,9 +73,7 @@
 
 <script>
 import axios from 'axios';
-
-//** Digitar o URL do Usuario do git por exemplo 'diego3g' */
-var usuario = 'diego3g';
+import usuario from '../services/usuario';
 
 export default {
     name: 'home',
