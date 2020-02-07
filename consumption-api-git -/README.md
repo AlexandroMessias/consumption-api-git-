@@ -8,9 +8,10 @@ yarn add vue-router
 ## IMPORTANT
 ```
 Executar o Arquivo com yarn serve
-ao abrir o localhost, seu endereço URL na berra de endereço será http://localhost:8080/
 
-para procurar o usuario do GitHub basta somente digitar o nome do Usurio do GitHub após a "/"
+Ao abrir o endereço localhost, seu endereço URL será http://localhost:8080/
+
+Para procurar um usuario do GitHub, basta somente digitar o nome do Usuario após a "/"
 
 Por exemplo:
 
