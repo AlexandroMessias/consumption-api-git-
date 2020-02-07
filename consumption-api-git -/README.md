@@ -5,9 +5,17 @@
 yarn install
 yarn add vue-router
 ```
-## iMPORTANT
+## IMPORTANT
 ```
-Mudar o nome do usuario na linha 78 do arquivo views/Home.vue
+Executar o Arquivo com yarn serve
+ao abrir o localhost, seu endereço URL na berra de endereço será http://localhost:8080/
+
+para procurar o usuario do GitHub basta somente digitar o nome do Usurio do GitHub após a "/"
+
+Por exemplo:
+
+localhost:8080/AlexandroMessias
+
 ```
 ### Compiles and hot-reloads for development
 ```
