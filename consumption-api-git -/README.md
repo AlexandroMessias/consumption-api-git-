@@ -5,7 +5,10 @@
 yarn install
 yarn add vue-router
 ```
-
+## iMPORTANT
+```
+Mudar o nome do usuario na linha 78 do arquivo views/Home.vue
+```
 ### Compiles and hot-reloads for development
 ```
 yarn serve
